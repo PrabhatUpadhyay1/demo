@@ -38,7 +38,8 @@ public class Floor {
 	@Column(name = "floor_no")
 	private String floorNo;
 	
-//	@OneToMany(mappedBy = "floor", cascade = CascadeType.ALL)
-//	java.util.List<Workspace> list;
+	
+////	@OneToMany(mappedBy = "floor", cascade = CascadeType.ALL)
+////	java.util.List<Workspace> list;
 
 }
