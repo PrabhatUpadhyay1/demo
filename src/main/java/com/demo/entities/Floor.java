@@ -39,6 +39,8 @@ public class Floor {
 	private String floorNo;
 	
 	
+	
+	
 ////	@OneToMany(mappedBy = "floor", cascade = CascadeType.ALL)
 ////	java.util.List<Workspace> list;
 
